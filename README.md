@@ -4,7 +4,7 @@
 
 
 ###
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="52"/>
 
   <img width="10" />
