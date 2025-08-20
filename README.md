@@ -1,4 +1,7 @@
-<h1 align="left">Bonjour, I'm Krish Batra</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF61F6&center=true&vCenter=true&width=600&lines=Bonjour!+I'm+Krish+Batra;AI+%7C+Web+Dev+%7C+Automation;Always+building+cool+stuff" />
+</p>
+
 
 ###
 
