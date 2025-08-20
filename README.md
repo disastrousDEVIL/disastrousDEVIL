@@ -6,35 +6,34 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="48"/>
 
-  <img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"  height="60"/>
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="48"/>
 
-  <img width="12" />
-  <img src="assets/FastAPI.png" height="60" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="60" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="60" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="assets/Tailwind CSS.png" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="assets/langchain.png"  height="60" alt="LangChain"/>
-<img width="12" />
-
-  <img src="assets/mcp.png" height="60" alt="MCP"/>
-<img width="12" />
-
-  <img src="assets/cursor.png"  height="60" alt="cursor"/>
-
+  <img width="8" />
+  <img src="assets/FastAPI.png" height="48" alt="fastapi logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="react logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="48" alt="selenium logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="postgresql logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="48" alt="wordpress logo" />
+  <img width="8" />
+  <img src="assets/Tailwind CSS.png" height="48" alt="tailwindcss logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="tensorflow logo" />
+  <img width="8" />
+  <img src="assets/langchain.png" height="48" alt="LangChain"/>
+  <img width="8" />
+  <img src="assets/mcp.png" height="48" alt="MCP"/>
+  <img width="8" />
+  <img src="assets/cursor.png" height="48" alt="cursor"/>
 </div>
+
+
 
 ###
 
