@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF61F6&center=true&vCenter=true&width=600&lines=Bonjour!+I'm+Krish+Batra;AI+%7C+Web+Dev+%7C+Automation;Always+building+cool+stuff" />
 </p>
+<p align="center">
+  🏡 Welcome to my digital home — <a href="https://www.vybecode.in/" target="_blank"><b>vybecode.in</b></a>
+</p>
 
 
 ###
