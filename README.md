@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF61F6&center=true&vCenter=true&width=600&lines=Bonjour!+I'm+Krish+Batra;AI+%7C+Web+Dev+%7C+Automation;Always+building+cool+stuff" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF61F6&center=true&vCenter=true&width=900&lines=Bonjour!+I'm+Krish+Batra;Agentic+AI+%7C+Machine+Learning+%7C+AI+Automation;Always+building+cool+stuff" 
+    alt="Typing SVG"
+  />
 </p>
+
+
 <p align="center">
   ✨ <a href="https://www.vybecode.in/" target="_blank"><b>vybecode.in</b></a> — my corner of the internet.
 </p>
