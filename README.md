@@ -58,8 +58,8 @@
 graph TD
 
   A1[Prompting]
-  A2[AgenticAI]
-  A3[Finetuning]
+  A2[Agentic AI]
+  A3[Fine tuning]
 
   Core[My Build Domains]
 
