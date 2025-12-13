@@ -14,7 +14,8 @@
 
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="54"/>
-
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="AWS" height="54"/>
   <img width="12" />
   <img src="assets/FastAPI.png" height="54" alt="fastapi logo" />
   <img width="12" />
@@ -26,8 +27,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="54" alt="wordpress logo" />
   <img width="12" />
-  <img src="assets/Tailwind CSS.png" height="54" alt="tailwindcss logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="54" alt="tensorflow logo" />
   <img width="12" />
   <img src="assets/langchain.png" height="54" alt="LangChain"/>
@@ -36,10 +35,6 @@
   <img width="12" />
   <img src="assets/cursor.png" height="54" alt="cursor"/>
 </div>
-
-
-
-
 
 ###
 
@@ -55,18 +50,33 @@
   </a>
 </div>
 
+
+```mermaid
+graph TD
+
+  A1[Prompting]
+  A2[AgenticAI]
+  A3[Finetuning]
+
+  Core[My Build Domains]
+
+  B1[Backend]
+  B2[Automation]
+  B3[DevOps]
+
+  A1 --- Core
+  A2 --- Core
+  A3 --- Core
+
+  Core --- B1
+  Core --- B2
+  Core --- B3
+
+
+
+```
 ###
-
-<div align="left">
- <img src="https://disastrousDEVIL.github.io/github-readme-stats/api?username=disastrousDEVIL&show_icons=true&theme=dark" height="150" />
-
-  <img src="https://streak-stats.demolab.com?user=disastrousDEVIL&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-<div align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=disastrousDEVIL&theme=dracula&title=MultiLanguage,Repositories,Commits,Experience&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-
+<div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=disastrousDEVIL&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -77,5 +87,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/disastrousDEVIL/disastrousDEVIL/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/disastrousDEVIL/disastrousDEVIL/output/pacman-contribution-graph.svg">
 </picture>
-
-###
