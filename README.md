@@ -11,7 +11,6 @@
 </p>
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="54"/>
-
   <img width="9" />
   <img src="assets/aws.png" alt="AWS" height="54"/>
   <img width="12" />
@@ -34,7 +33,9 @@
   <img src="assets/mcp.png" height="54" alt="MCP"/>
   <img width="12" />
   <img src="assets/openai-agentkit.png" height="54" alt="OpenAI Agentkit"/>
+  <img width="12" />
   <img src="assets/googleadk.png" height="54" alt="GoogleADK"/>
+  <img width="12" />
   <img src="assets/cursor.png" height="54" alt="cursor"/>
 </div>
 
